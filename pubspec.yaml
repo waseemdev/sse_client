@@ -10,7 +10,7 @@ environment:
   sdk: '>=2.6.0 <3.0.0'
 
 dependencies:
-  http: ^0.12.1
+  http: ^0.13.0
   stream_channel: '>=1.6.8 <3.0.0'
 
 dev_dependencies:
