@@ -9,7 +9,7 @@ import '_connect_api.dart'
 
 /// A client for sse communcation.
 class SseClient {
-  SseClient({this.stream});
+  SseClient({required this.stream});
 
   /// Creates a new server sent events connection.
   ///
